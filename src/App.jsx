@@ -93,7 +93,7 @@ function SignUpForm() {
 
   return (
     <div className="bg-white rounded-2xl w-full max-w-[375px] md:max-w-[800px] flex flex-col-reverse md:flex-row overflow-hidden">
-      <div className="flex-1 px-6 py-4 md:p-12">
+      <div className="flex-1 px-6 py-2 md:p-12">
         <h1 className="text-4xl md:text-5xl font-bold mb-6 md:mb-8 mt-6 md:mt-6 text-[hsl(234,29%,20%)]">
           Stay updated!
         </h1>
